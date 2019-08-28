@@ -12,6 +12,7 @@ This repository hosts materials which describe the structure and operation this 
 ## Course Format
 
 |**Day(s) of Week**|**Time**        |**Location**|**Purpose of class session**|
+|------------------|----------------|------------|----------------------------|
 |Thursday          |1:30 PM - 2:20PM|Alden 101   |Discussion, group work      |
 
 ## Notes
