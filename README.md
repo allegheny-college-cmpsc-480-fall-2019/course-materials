@@ -11,8 +11,8 @@ This repository hosts materials which describe the structure and operation this 
 
 ## Course Format
 
-|**Day(s) of Week**|**Time**        |**Location**|**Purpose of class session|
-|Thursday          |1:30 PM - 2:20PM|Alden 101   |Discussion, group work    |
+|**Day(s) of Week**|**Time**        |**Location**|**Purpose of class session**|
+|Thursday          |1:30 PM - 2:20PM|Alden 101   |Discussion, group work      |
 
 ## Notes
 * From time to time, we will be Skyping/video conferencing with speakers. These will be announced at least one class ahead of the scheduled class period, so that you can do some research on/about topics relevant to our guest.
