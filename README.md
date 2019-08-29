@@ -4,7 +4,7 @@ This repository hosts materials which describe the structure and operation this 
 ## Resources
 
 * [Syllabus](Syllabus/CMPSC%20480%20-%20Syllabus.pdf)
-* [Course schedule]()
+* [Course schedule](https://docs.google.com/spreadsheets/d/1zwJbJtdgp6ru_a1dEEtSUjQPv2LTrezFeNRGaQuDfIE/edit?usp=sharing)
 * [Course Slack channel](https://cmpsc480fall2019.slack.com)
 * [Faculty page](https://cs.allegheny.edu/sites/dluman)
     * Book student hours, find helpful links for the course
@@ -16,4 +16,4 @@ This repository hosts materials which describe the structure and operation this 
 |Thursday          |1:30 PM - 2:20PM|Alden 101   |Discussion, group work      |
 
 ## Notes
-* From time to time, we will be Skyping/video conferencing with speakers. These will be announced at least one class ahead of the scheduled class period, so that you can do some research on/about topics relevant to our guest.
+* From time to time, we will be Skyping/video conferencing with speakers. These will be announced at least one class ahead of the scheduled class period, so that you can do some research on/about topics relevant to our guest. In addition, guests will provide readings and outlines for small assignments for the class to complete. These will be provided at the time we speak to our various (3) guests.
